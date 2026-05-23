@@ -1,5 +1,5 @@
-# Image-Segmentation
-Road scene segmentation with DeepLabV3+ for self-driving cars. Includes TensorFlow model and visualization tools.
+# Image Segmentation for Self-Driving Cars
+A deep learning project for semantic segmentation of road scenes using DeepLabV3+ and TensorFlow.
 
 **Live Demo:** https://image-segmentation-w3rdpbpx5clruaj9tamshp.streamlit.app/
 
@@ -16,7 +16,7 @@ This project focuses on road scene segmentation using the DeepLabV3+ model, a st
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/image-segmentation.git
+  git clone https://github.com/Unorthodox60/Unorthodox60-Image-segmentation-V3.git
    ```
 2. Install the required dependencies:
    ```bash
